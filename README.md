@@ -18,7 +18,7 @@ This package provides a converter for Solana transactions received via the [yell
 ## Installation
 
 ```bash
-go get github.com/dzhisl/geyser-monitor
+go get github.com/dzhisl/geyser-converter
 ```
 
 ## Usage
